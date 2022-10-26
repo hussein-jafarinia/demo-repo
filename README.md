@@ -12,3 +12,4 @@ seeing every file in the cloned repo's directory: in vscode terminal -> ls -al
 seeing the changes to files in the cloned repo: in vscode terminal -> git status
 making every change to be tracked: in vscode terminal -> git add .
 commiting the trakced changes: in vscode terminal -> git commit -m "Added index.html" -m "some description"
+lckm lckm 
